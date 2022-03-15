@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, eu sou Ray Gomes</h1>
+<h1 align="center">Hi 👋, eu sou Ray Gomes, Full Stack Developer/Analyst & UI/UX Designer</h1>
 <h3 align="center">Aqui você encontra projetos usando Javascript, Php e React-Native</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raygomesdev&label=Profile%20views&color=0e75b6&style=flat" alt="raygomesdev" /> </p>
@@ -30,7 +30,7 @@
 <a href="https://fb.com/raygomesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raygomesdev" height="30" width="40" /></a>
 <a href="https://instagram.com/raygomesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raygomesdev" height="30" width="40" /></a>
 <a href="https://www.behance.net/raygomesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raygomesdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/raygomesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raygomesdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucd-vn0oaazw2z6y-_tsbxow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucd-vn0oaazw2z6y-_tsbxow" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
