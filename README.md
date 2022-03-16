@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/71949524/158492131-a5b97b9d-d292-4099-ab1b-96520758a0fe.png)
+(https://user-images.githubusercontent.com/71949524/158492131-a5b97b9d-d292-4099-ab1b-96520758a0fe.png)
 
 <h1 align="center">Hi 👋, eu sou Ray Gomes</h1>
 <h3 align="center">Aqui você encontra projetos usando Javascript, Php e React-Native</h3>
