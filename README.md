@@ -1,4 +1,4 @@
-![Banner Github](https://user-images.githubusercontent.com/71949524/158491854-334b67cc-f230-428d-881a-21fef1af4a89.jpg)
+![Github_Banner](https://user-images.githubusercontent.com/71949524/179429891-7c8ec75b-a19c-48fa-99f9-474df70322aa.jpg)
 
 <h1 align="center">Olá! 👋, eu sou Ray Gomes</h1>
 <h3 align="center">Aqui você encontra projetos usando Javascript, Php e React-Native</h3>
