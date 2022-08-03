@@ -6,9 +6,9 @@
 
 - 🌱 Atualmente estou me aperfeiçoando em **Dart**
 
-- 🤝 Inscreva-se no meu canal do YouTube [Inscreva-se](https://youtu.be/N4-YdVQZ1JQ)
+- 🤝 Inscreva-se no meu canal do YouTube [Inscreva-se](https://www.youtube.com/channel/UCD-VN0oAaZW2Z6y-_TSBXOw)
 
-- 📫 Contato: **contato@raygomesdev.com**
+- 📫 Contato: **contact@raygomesdev.com**
 
 - 📄 Sobre mim: [https://www.linkedin.com/in/raygomesdev/](https://www.linkedin.com/in/raygomesdev/)
 
