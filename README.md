@@ -21,7 +21,7 @@
 <a href="https://fb.com/raygomesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raygomesdev" height="30" width="40" /></a>
 <a href="https://instagram.com/raygomesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raygomesdev" height="30" width="40" /></a>
 <a href="https://www.behance.net/raygomesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raygomesdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/raygomesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raygomesdev" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/raygomesdev](https://www.youtube.com/channel/UCD-VN0oAaZW2Z6y-_TSBXOw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raygomesdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
