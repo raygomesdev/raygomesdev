@@ -1,4 +1,4 @@
-![Banner Github](https://user-images.githubusercontent.com/71949524/187012898-ab6be4d3-4b62-460a-828a-50192438476a.jpg)
+![Banner Github](https://user-images.githubusercontent.com/71949524/187028929-12d426b8-8af1-45df-9fbe-7c90940bd2e1.jpg)
 <h1 align="center">Olá! 👋, eu sou Ray Gomes</h1>
 <h3 align="center">Aqui você encontra projetos de Desenvolvimento Web e Mobile</h3>
 
