@@ -1,1 +1,1 @@
-![Banner Github](https://user-images.githubusercontent.com/71949524/201956487-241c35b2-6dc0-4acc-9c7f-34feedc1eccf.jpg)
+![raygomesdev_logo_cover_github](https://github.com/user-attachments/assets/d91b19ef-8c0e-49f5-bcf6-ce906efbf2bc)
